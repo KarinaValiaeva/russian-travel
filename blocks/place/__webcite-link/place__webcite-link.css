@@ -1,0 +1,16 @@
+.place__webcite-link {
+  color: #fff;
+  font-style:  normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: calc(22/18);
+  transition: opacity 1s ease;
+}
+
+.place__webcite-link:hover {
+  opacity: .8;
+  }
+
+  .place__webcite-link:hover {
+    cursor: pointer;
+}

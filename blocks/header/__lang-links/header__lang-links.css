@@ -1,0 +1,12 @@
+.header__lang-links {
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto;
+  justify-content: end;
+  align-content: end;
+  grid-gap: 18px;
+  list-style-type: none;
+  
+}
