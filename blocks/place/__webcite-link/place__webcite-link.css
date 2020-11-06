@@ -9,8 +9,5 @@
 
 .place__webcite-link:hover {
   opacity: .8;
+  cursor: pointer;
   }
-
-  .place__webcite-link:hover {
-    cursor: pointer;
-}
