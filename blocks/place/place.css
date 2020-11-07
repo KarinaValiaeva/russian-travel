@@ -8,8 +8,6 @@
 
 @media screen and (min-width: 768px) {
     .place {
-       
-        display: grid;
         grid-template-columns: 340px 1fr;
         column-gap: 28px;
         row-gap: 48px; 

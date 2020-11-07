@@ -1,9 +1,9 @@
-.place__webcite {
+.place__website {
     display: none;
 }
 
 @media screen and (min-width: 768px) {
-    .place__webcite {
+    .place__website {
         align-content: flex-end;
         width: 100%;
         display: grid;
