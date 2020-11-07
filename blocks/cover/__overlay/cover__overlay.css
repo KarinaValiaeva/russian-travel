@@ -7,11 +7,6 @@
     justify-items: center;
     text-decoration: none;
     color: #fff;
-    transition: opacity 1s ease;
-}
-
-.cover__overlay:hover {
-    opacity: .8;
 }
 
 @media screen and (min-width: 768px) {
